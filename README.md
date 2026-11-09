@@ -55,7 +55,7 @@
 
 ---
 
-## 💫 About Me
+<p align="center"><img src="assets/about-flock.svg" width="100%" alt="About me"></p>
 
 - 🔭 Currently building **AI-powered web apps** with React & TypeScript
 - 🎓 Studying Computer Science (B.E./B.Tech, Batch 2028) — Semester 5
