@@ -26,8 +26,38 @@ Full-stack (React + TypeScript) · AI-powered apps · Core CS fundamentals (C, O
 
 ## 🚧 Featured Projects
 
-| Project | Description | Tech | Stars | Live Demo | Code |
-|---|---|---|---|---|---|
+<p align="center"><sub>Hanging on the rail — click a board to open its live demo, or use the links underneath.</sub></p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://air-aware-tau.vercel.app"><img src="assets/deck-air-aware.svg" width="200" alt="Air-Aware"></a><br>
+      <b>Air-Aware</b><br>
+      <sub>Air-pollution awareness with an AI guide</sub><br>
+      <a href="https://github.com/B-Praveen18/Air-Aware">📂 GitHub Repo</a><br><a href="https://air-aware-tau.vercel.app">🚀 Live Demo</a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://business-growth-os-v26v-lac.vercel.app"><img src="assets/deck-business-growth-os.svg" width="200" alt="Business-Growth-OS"></a><br>
+      <b>Business-Growth-OS</b><br>
+      <sub>AI business growth, six response agents</sub><br>
+      <a href="https://github.com/B-Praveen18/Business-Growth-OS">📂 GitHub Repo</a><br><a href="https://business-growth-os-v26v-lac.vercel.app">🚀 Live Demo</a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://praveen-b-folio.vercel.app"><img src="assets/deck-portfolio.svg" width="200" alt="Praveen-B-Portfolio"></a><br>
+      <b>Praveen-B-Portfolio</b><br>
+      <sub>My personal developer portfolio</sub><br>
+      <a href="https://github.com/B-Praveen18/Praveen-B-Portfolio">📂 GitHub Repo</a><br><a href="https://praveen-b-folio.vercel.app">🚀 Live Demo</a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://automated-audio-minutes-system-5fiw.vercel.app/"><img src="assets/deck-audio-minutes.svg" width="200" alt="Automated Audio Minutes"></a><br>
+      <b>Automated Audio Minutes</b><br>
+      <sub>Audio to meeting minutes, automated</sub><br>
+      🔒 Private repo<br><a href="https://automated-audio-minutes-system-5fiw.vercel.app/">🚀 Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---|---|---|---|---|---|
 | **[Air-Aware](https://github.com/B-Praveen18/Air-Aware)** | Interactive web app promoting air-pollution awareness with AI-powered insights | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![stars](https://img.shields.io/github/stars/B-Praveen18/Air-Aware?style=flat-square) | [🚀 Live Demo](https://air-aware-tau.vercel.app) | [Repo](https://github.com/B-Praveen18/Air-Aware) |
 | **[Business-Growth-OS](https://github.com/B-Praveen18/Business-Growth-OS)** | AI-powered business growth platform with six AI response agents | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AI](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square) | ![stars](https://img.shields.io/github/stars/B-Praveen18/Business-Growth-OS?style=flat-square) | [🚀 Live Demo](https://business-growth-os-v26v-lac.vercel.app) | [Repo](https://github.com/B-Praveen18/Business-Growth-OS) |
 | **[Praveen-B-Portfolio](https://github.com/B-Praveen18/Praveen-B-Portfolio)** | Personal portfolio showcasing my projects, skills and interests | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![stars](https://img.shields.io/github/stars/B-Praveen18/Praveen-B-Portfolio?style=flat-square) | [🚀 Live Demo](https://praveen-b-folio.vercel.app) | [Repo](https://github.com/B-Praveen18/Praveen-B-Portfolio) |
