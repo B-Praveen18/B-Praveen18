@@ -18,7 +18,6 @@
 
 - 🔭 Currently building **AI-powered web apps** with React & TypeScript
 - 🎓 Studying Computer Science (B.E./B.Tech, Batch 2028) — Semester 5
-- 🧠 Practising **DSA** regularly on LeetCode (sorting, string searching, and more)
 - 🛠️ Exploring **Python packaging**, **Java**, and **C systems programming**
 - 🌱 Learning: AI agents, system design, cloud
 - 📫 Reach me on GitHub: [@B-Praveen18](https://github.com/B-Praveen18)
