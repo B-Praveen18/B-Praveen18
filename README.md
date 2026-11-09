@@ -51,7 +51,7 @@ Full-stack (React + TypeScript) · AI-powered apps · Core CS fundamentals (C, O
     <td align="center" valign="top" width="20%">
       <a href="https://somnus-ai.vercel.app/"><img src="assets/deck-somnus.svg" width="150" alt="Somnus AI"></a><br>
       <b>Somnus AI</b><br>
-      <sub>AI-powered web app</sub><br>
+      <sub>AI sleep-stage monitor &amp; smart wake system (ESP32 + ML)</sub><br>
       <a href="https://github.com/B-Praveen18/Somnus">📂 GitHub Repo</a><br><a href="https://somnus-ai.vercel.app/">🚀 Live Demo</a>
     </td>
     <td align="center" valign="top" width="20%">
