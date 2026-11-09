@@ -14,17 +14,6 @@
 
 ---
 
-## 💫 About Me
-
-- 🔭 Currently building **AI-powered web apps** with React & TypeScript
-- 🎓 Studying Computer Science (B.E./B.Tech, Batch 2028) — Semester 5
-- 🧠 Practising **DSA** regularly on LeetCode (sorting, string searching, and more)
-- 🛠️ Exploring **Python packaging**, **Java**, and **C systems programming**
-- 🌱 Learning: AI agents, system design, cloud
-- 📫 Reach me on GitHub: [@B-Praveen18](https://github.com/B-Praveen18)
-
----
-
 ## 🚧 Featured Projects
 
 <p align="center"><sub>Hanging on the rail — click a board to open its live demo, or use the links underneath.</sub></p>
@@ -64,11 +53,16 @@
   </tr>
 </table>
 
----|---|---|---|---|---|
-| **[Air-Aware](https://github.com/B-Praveen18/Air-Aware)** | Interactive web app promoting air-pollution awareness with AI-powered insights | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![stars](https://img.shields.io/github/stars/B-Praveen18/Air-Aware?style=flat-square) | [🚀 Live Demo](https://air-aware-tau.vercel.app) | [Repo](https://github.com/B-Praveen18/Air-Aware) |
-| **[Business-Growth-OS](https://github.com/B-Praveen18/Business-Growth-OS)** | AI-powered business growth platform with six AI response agents | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AI](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square) | ![stars](https://img.shields.io/github/stars/B-Praveen18/Business-Growth-OS?style=flat-square) | [🚀 Live Demo](https://business-growth-os-v26v-lac.vercel.app) | [Repo](https://github.com/B-Praveen18/Business-Growth-OS) |
-| **[Praveen-B-Portfolio](https://github.com/B-Praveen18/Praveen-B-Portfolio)** | Personal portfolio showcasing my projects, skills and interests | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![stars](https://img.shields.io/github/stars/B-Praveen18/Praveen-B-Portfolio?style=flat-square) | [🚀 Live Demo](https://praveen-b-folio.vercel.app) | [Repo](https://github.com/B-Praveen18/Praveen-B-Portfolio) |
-| **Automated Audio Minutes System** | Automated audio transcription and meeting-minutes generator | ![AI](https://img.shields.io/badge/AI-8A2BE2?style=flat-square) | — | [🚀 Live Demo](https://automated-audio-minutes-system-5fiw.vercel.app/) | 🔒 Private |
+---
+
+## 💫 About Me
+
+- 🔭 Currently building **AI-powered web apps** with React & TypeScript
+- 🎓 Studying Computer Science (B.E./B.Tech, Batch 2028) — Semester 5
+- 🧠 Practising **DSA** regularly on LeetCode (sorting, string searching, and more)
+- 🛠️ Exploring **Python packaging**, **Java**, and **C systems programming**
+- 🌱 Learning: AI agents, system design, cloud
+- 📫 Reach me on GitHub: [@B-Praveen18](https://github.com/B-Praveen18)
 
 ---
 
