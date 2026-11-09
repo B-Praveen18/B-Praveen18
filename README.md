@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Praveen B
-
-**CS student @ Mepco Schlenk Engineering College · Chennai, India 🇮🇳**
-Full-stack (React + TypeScript) · AI-powered apps · Core CS fundamentals (C, OS, DBMS, Networks, Compilers)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="Hi, I'm Praveen B: CS student at Mepco Schlenk, Chennai. Full-stack (React + TypeScript), AI-powered apps, ML and IoT.">
+</picture>
 
 ![followers](https://img.shields.io/github/followers/B-Praveen18?label=followers&style=flat-square&color=blue)
 ![repos](https://img.shields.io/badge/public%20repos-16-brightgreen?style=flat-square)
