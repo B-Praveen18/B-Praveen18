@@ -14,6 +14,17 @@
 
 ---
 
+<p align="center"><img src="assets/about-flock.svg" width="100%" alt="About me"></p>
+
+- 🔭 Currently building **AI-powered web apps** with React & TypeScript
+- 🎓 Studying Computer Science (B.E./B.Tech, Batch 2028) — Semester 5
+- 🧠 Practising **DSA** regularly on LeetCode (sorting, string searching, and more)
+- 🛠️ Exploring **Python packaging**, **Java**, and **C systems programming**
+- 🌱 Learning: AI agents, system design, cloud
+- 📫 Reach me on GitHub: [@B-Praveen18](https://github.com/B-Praveen18)
+
+---
+
 ## 🚧 Featured Projects
 
 <p align="center"><sub>Hanging on the rail — click a board to open its live demo, or use the links underneath.</sub></p>
@@ -52,17 +63,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="center"><img src="assets/about-flock.svg" width="100%" alt="About me"></p>
-
-- 🔭 Currently building **AI-powered web apps** with React & TypeScript
-- 🎓 Studying Computer Science (B.E./B.Tech, Batch 2028) — Semester 5
-- 🧠 Practising **DSA** regularly on LeetCode (sorting, string searching, and more)
-- 🛠️ Exploring **Python packaging**, **Java**, and **C systems programming**
-- 🌱 Learning: AI agents, system design, cloud
-- 📫 Reach me on GitHub: [@B-Praveen18](https://github.com/B-Praveen18)
 
 ---
 
