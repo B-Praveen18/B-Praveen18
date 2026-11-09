@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Hi, I'm Praveen B: CS student at Mepco Schlenk, Chennai. Full-stack (React + TypeScript), AI-powered apps, ML and IoT.">
+  <img src="assets/banner-dark.svg" width="100%" alt="Hi, I'm Praveen B: CS student at Mepco Schlenk, Sivakasi. Full-stack (React + TypeScript), AI-powered apps, ML and IoT.">
 </picture>
 
 <a href="https://praveen-b-folio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
@@ -16,7 +16,7 @@
 
 <p align="center"><img src="assets/about-flock.svg" width="100%" alt="About me"></p>
 
-Computer Science undergraduate at Mepco Schlenk Engineering College, Chennai.
+Computer Science undergraduate at Mepco Schlenk Engineering College, Sivakasi.
 
 - I build full-stack web applications with React and TypeScript, with a focus on AI-powered features.
 - On **Somnus**, an ECG-based sleep-stage monitoring and smart wake system, I worked on the machine-learning pipeline and backend APIs.
