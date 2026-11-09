@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Hi, I'm Praveen B: CS student at Mepco Schlenk, Sivakasi. Full-stack (React + TypeScript), AI-powered apps, ML and IoT.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-v2.svg">
+  <img src="assets/banner-dark-v2.svg" width="100%" alt="Hi, I'm Praveen B: CS student at Mepco Schlenk, Sivakasi. Full-stack (React + TypeScript), AI-powered apps, ML and IoT.">
 </picture>
 
 <a href="https://praveen-b-folio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
