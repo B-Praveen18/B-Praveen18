@@ -30,26 +30,32 @@ Full-stack (React + TypeScript) · AI-powered apps · Core CS fundamentals (C, O
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="25%">
-      <a href="https://air-aware-tau.vercel.app"><img src="assets/deck-air-aware.svg" width="200" alt="Air-Aware"></a><br>
+    <td align="center" valign="top" width="20%">
+      <a href="https://air-aware-tau.vercel.app"><img src="assets/deck-air-aware.svg" width="150" alt="Air-Aware"></a><br>
       <b>Air-Aware</b><br>
       <sub>Air-pollution awareness with an AI guide</sub><br>
       <a href="https://github.com/B-Praveen18/Air-Aware">📂 GitHub Repo</a><br><a href="https://air-aware-tau.vercel.app">🚀 Live Demo</a>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://business-growth-os-v26v-lac.vercel.app"><img src="assets/deck-business-growth-os.svg" width="200" alt="Business-Growth-OS"></a><br>
+    <td align="center" valign="top" width="20%">
+      <a href="https://business-growth-os-v26v-lac.vercel.app"><img src="assets/deck-business-growth-os.svg" width="150" alt="Business-Growth-OS"></a><br>
       <b>Business-Growth-OS</b><br>
       <sub>AI business growth, six response agents</sub><br>
       <a href="https://github.com/B-Praveen18/Business-Growth-OS">📂 GitHub Repo</a><br><a href="https://business-growth-os-v26v-lac.vercel.app">🚀 Live Demo</a>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://praveen-b-folio.vercel.app"><img src="assets/deck-portfolio.svg" width="200" alt="Praveen-B-Portfolio"></a><br>
+    <td align="center" valign="top" width="20%">
+      <a href="https://praveen-b-folio.vercel.app"><img src="assets/deck-portfolio.svg" width="150" alt="Praveen-B-Portfolio"></a><br>
       <b>Praveen-B-Portfolio</b><br>
       <sub>My personal developer portfolio</sub><br>
       <a href="https://github.com/B-Praveen18/Praveen-B-Portfolio">📂 GitHub Repo</a><br><a href="https://praveen-b-folio.vercel.app">🚀 Live Demo</a>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://automated-audio-minutes-system-5fiw.vercel.app/"><img src="assets/deck-audio-minutes.svg" width="200" alt="Automated Audio Minutes"></a><br>
+    <td align="center" valign="top" width="20%">
+      <a href="https://somnus-ai.vercel.app/"><img src="assets/deck-somnus.svg" width="150" alt="Somnus AI"></a><br>
+      <b>Somnus AI</b><br>
+      <sub>AI-powered web app</sub><br>
+      <a href="https://github.com/B-Praveen18/Somnus">📂 GitHub Repo</a><br><a href="https://somnus-ai.vercel.app/">🚀 Live Demo</a>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://automated-audio-minutes-system-5fiw.vercel.app/"><img src="assets/deck-audio-minutes.svg" width="150" alt="Automated Audio Minutes"></a><br>
       <b>Automated Audio Minutes</b><br>
       <sub>Audio to meeting minutes, automated</sub><br>
       🔒 Private repo<br><a href="https://automated-audio-minutes-system-5fiw.vercel.app/">🚀 Live Demo</a>
