@@ -31,7 +31,7 @@ Computer Science undergraduate at Mepco Schlenk Engineering College, Sivakasi.
       <a href="https://air-aware-tau.vercel.app"><img src="assets/deck-air-aware.svg" width="150" alt="Air-Aware"></a><br>
       <b>Air-Aware</b><br>
       <sub>Air-pollution awareness site with an AI guide</sub><br>
-      <a href="https://air-aware-tau.vercel.app">Live demo</a> · <a href="https://github.com/B-Praveen18/Air-Aware">Code</a>
+      <a href="https://air-aware-tau.vercel.app">Live demo</a> . <a href="https://github.com/B-Praveen18/Air-Aware">Code</a>
     </td>
     <td align="center" valign="top" width="20%">
       <a href="https://business-growth-os-v26v-lac.vercel.app"><img src="assets/deck-business-growth-os.svg" width="150" alt="Business-Growth-OS"></a><br>
